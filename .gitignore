@@ -1,0 +1,16 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+.dvc/cache/
+.dvc/tmp/
+.dvc/lock
+
+*.h5
+
+data/raw/
+data/processed/
+models/
+
+*.log
